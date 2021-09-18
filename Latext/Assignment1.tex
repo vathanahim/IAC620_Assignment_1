@@ -368,7 +368,7 @@ fig.show()
 	of each fruits. Thus, further supporting the initial analysis.
 	
 	Finally, it can be concluded that a feature selection method may be 
-	needed in order to eliminate features of covariance. 
+	needed in order to eliminate features that are correlated based on evidence displayed in figure 22 and figure 24. 
 	
 	\subsection{Task 9 Results}
 	\centering
@@ -411,7 +411,7 @@ fig.show()
 
 #def get image from given directory
 def get_img(path:str):
-img_paths = glob.glob('../data/*.jpg')
+img_paths = glob.glob(path+"*.jpg")
 return img_paths
 #read image given a path
 def read_img(path:str):

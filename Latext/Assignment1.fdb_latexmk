@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1631796935 "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.tex" "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.pdf" "Assignment1" 1631796961
+["pdflatex"] 1631993527 "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.tex" "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.pdf" "Assignment1" 1631993541
   "../data/fuji_apple_001.jpg" 1221320879 36250 b9e678bc859020d3534ed80ccf505307 ""
   "../data/spanish_pear_001.jpg" 1221320881 23669 0654fdae6a6fcaadcfc4ba818c2fbd95 ""
   "../data/watermelon_001.jpg" 1221320880 61784 de11e67de0b52a2b083210c2a1bfca5e ""
@@ -24,8 +24,8 @@
   "../screenshots/merge012.png" 1631470703 64343 389ab105197b992910df7896752fa6a4 ""
   "../screenshots/sliding88.png" 1631468739 57574 15fd21f68b052aa93a1ca0bddfaf21ea ""
   "../screenshots/sliding88csv.png" 1631468770 34213 e7d2aff57633b7328acf659226ebe6da ""
-  "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.aux" 1631796938 7284 f01f70334a807d98d94829e50e865162 ""
-  "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.tex" 1631796934 18905 fcc075bcf6dc3bfbb001d56783dd1afe ""
+  "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.aux" 1631993530 7284 f01f70334a807d98d94829e50e865162 ""
+  "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.tex" 1631993540 18963 9ba25485f443e165ac191289e5336fdb ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -113,13 +113,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1631387375 2724738 22ef2b47abbd3baecad103f3419a384c ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "Assignment1.aux" 1631796938 7284 f01f70334a807d98d94829e50e865162 "pdflatex"
-  "Assignment1.out" 1631796938 2856 415692bdbf1fdf4b017a55ed0d9c4ef9 "pdflatex"
-  "Assignment1.tex" 1631796934 18905 fcc075bcf6dc3bfbb001d56783dd1afe ""
+  "Assignment1.aux" 1631993530 7284 f01f70334a807d98d94829e50e865162 "pdflatex"
+  "Assignment1.out" 1631993530 2856 415692bdbf1fdf4b017a55ed0d9c4ef9 "pdflatex"
+  "Assignment1.tex" 1631993540 18963 9ba25485f443e165ac191289e5336fdb ""
   (generated)
-  "Assignment1.aux"
-  "Assignment1.pdf"
   "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.pdf"
   "Assignment1.log"
   "/Users/vathanahim/Documents/GradSchool/UNCG-Fall2021/IAC622/Assignments/IAC622_Assignment_1/Latext/Assignment1.log"
   "Assignment1.out"
+  "Assignment1.pdf"
+  "Assignment1.aux"
